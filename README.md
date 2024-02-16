@@ -1,1 +1,1 @@
-READ ME >> https://jollyboxcal.netlify.app << THIS IS THE LINK FOR THIS Jollyboxcalculator
+READ ME >> https://mark06a.github.io/JollyBox << THIS IS THE LINK FOR THIS Jollyboxcalculator
